@@ -2,8 +2,6 @@
   url: 'https://linkedin.com/in/username'
 - name: github
   url: 'https://github.com/username'
-- name: goodreads
-  url: null
 - name: xing
   url: null
 - name: youtube
