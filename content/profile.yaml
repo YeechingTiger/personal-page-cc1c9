@@ -6,7 +6,7 @@
   image: images/profile.jpg
   location: 'Gainesville, Florida'
   relocation: true
-  company: Atomic Studio
+  company: University of Florida
   for_hire: true
   focus: Learning Gatsby
   focus_url: 'https://gatsbyjs.org'
