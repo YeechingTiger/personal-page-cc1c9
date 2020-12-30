@@ -1,7 +1,5 @@
 - name: linkedin
   url: 'https://linkedin.com/in/username'
-- name: dribbble
-  url: null
 - name: behance
   url: null
 - name: producthunt
